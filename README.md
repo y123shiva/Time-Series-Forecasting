@@ -56,11 +56,6 @@ This project focuses on analyzing and forecasting financial pricing data using a
 - Visualized 30-day forecasts with confidence.
 - Decomposed time series into **trend, seasonal**, and **residual** components.
 - Exported predictions and forecasts as `.csv`.
-
-<p align="center">
-  <img src="images/forecast_plot.png" alt="SARIMA Forecast" width="700">
-</p>
-
 ---
 
 ## 💾 Model Persistence
