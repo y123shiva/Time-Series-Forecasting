@@ -1,4 +1,3 @@
-# Time-Series-Forecasting
 # 📈 Financial Time Series Forecasting using SARIMA
 
 This project focuses on analyzing and forecasting financial pricing data using a SARIMA model. It includes detailed exploratory data analysis (EDA), statistical preprocessing, and 30-day ahead forecasting using Python and Statsmodels.
